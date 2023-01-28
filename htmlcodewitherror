@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<style type="text/css">
+<meta charset="utf-8">
+  table
+  {
+     border-style: solid;
+  }
+
+  td
+  {
+     border-style: solid; 
+     border-color: #FF66FF;
+     padding: 10px;
+   }
+</style>
+<title>
+Ian Morgan Kettell
+</title>
+
+
+<body>
+<h1>Ian's Hobbies! </h1>
+<table>
+<tr>
+  <td>Camping</td>
+  <td>Hiking</td>
+  <td>Cycling</td>
+</tr>
+<tr>
+  <td>Fishing</td>
+  <td>Kayaking</td>
+  <td>Skiing</td>
+</tr>
+</table>
+</body>
+
+</html>
+
+<a href="movies.html">Learn about Ian's Favorite Actors and Movies!</a>
+<html lang="en">
+<meta charset="utf-8">
+
+<title>
+Ian Morgan Kettell
+</title>
+<h3>
+My Favorite Movies
+</h3>
+<ul>
+    <li>
+        Promised Land
+    </li>
+    <li>
+        Flight
+    </li>
+    <li>
+        Taken
+    </li>
+</ul>
+<p>
+    The movies I chose were Promised Land starring Matt Damon, Flight starring Denzel Washington, and Taken starring Liam Neeson. Even though I have an endless
+    list of favorite movies these are by far my top 3. I like them because I like movies I can learn things from. For instance; Promised Land is a film about
+    oil companies fighting to buy land from farmers to frack the land to find oil. It shows both sides of the process of how they convince people and I found
+    it extremely interesting.
+</p>
+<h3>
+    My Favorite Actors
+</h3>
+<ul>
+    <li>
+        Matt Damon
+    </li>
+    <li>
+        Denzel Washington
+    </li>
+    <li>
+        Liam Neeson
+    </li>
+</ul>
+<p>
+    If I had to choose my favorite actors my top 3 would be Matt Damon, Denzel Washington, and Liam Neeson. I think Denzel Washington is my favorite actor of
+    all time. He has been an actor since the year 1981 when he made his debut apperance in the comedy A Carbon Copy.He is best known for Philadelphia Man, Man
+    on Fire, The Book Of Eli, American Gangster, and Flight.In recent years he has starred in action movies. Some of my favorite movies he's in are Inside Man,
+    Out of Time and The Book Of Eli, these are all kind of action dramas.
+</p>
+</html>
